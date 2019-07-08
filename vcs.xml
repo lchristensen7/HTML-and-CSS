@@ -66,6 +66,10 @@
           <option name="url" value="git@github.com:lchristensen7/colorpicker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:lchristensen7/aboutlariah.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Laria\Desktop\bootcamp\git" />
