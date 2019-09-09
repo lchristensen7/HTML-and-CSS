@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="variables-and-data.js" type="JavaScript" />
       <mapping pattern="snap_7_9/functionsjs" type="JavaScript" />
+      <mapping pattern="public_html/Dockerfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
