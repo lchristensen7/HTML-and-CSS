@@ -130,6 +130,10 @@
           <option name="url" value="https://github.com/uss-hopper/docker-intro.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:uss-hopper/assessment-2-lchristensen7.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Laria\Desktop\bootcamp\git" />
